@@ -20,7 +20,7 @@
 * เหตุผลที่กลุ่มนักศึกษาเลือกทำโปรเจคนี้: ช่วยสร้างความน่าเชื่อถือให้บริษัทก่อสร้าง
 
 # ภาพหน้าปกรายงานโปรเจกค์
-<img width="2048" height="1143" alt="" src="">
+<img width="2048" height="1143" alt="555" src="https://github.com/user-attachments/assets/4f43b2b8-dd0b-4268-986e-4fd4106d5eff" />
 
 # ช่องทางการติดต่อ
 * Gmail: Tannak4568@gmail.com
